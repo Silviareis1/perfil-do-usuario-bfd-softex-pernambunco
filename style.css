@@ -1,0 +1,95 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background-color: rgb(206, 203, 208);
+   max-width: 500px;
+   margin: 0 auto;
+   margin-top: 30px;
+   border-radius: 10px;
+   padding: 20px;
+}
+
+header {
+   text-align: center;
+   margin-top: 20;
+}
+img {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 100px;
+   border: 3px solid; 
+   border-radius: 50%; 
+   color: blueviolet;
+}
+
+h1 {
+   margin-bottom: 10px;
+}
+.container{
+   background-color: rgb(237, 232, 242);
+   width: 450px;
+   height: 450px;
+   padding: 50px 30px;
+   border-radius: 10px;
+margin: auto;
+}
+
+.card {
+   text-align: justify;
+   margin-bottom: 10px;
+   border-radius: 10px;
+   background-color: white;
+   width: 400px;
+   height: 400px;
+   margin: auto;
+   padding: 20px
+}
+
+.progress1 {
+   width: 200px;
+   height: 20px;
+   accent-color: rgb(28, 18, 216);
+}
+
+.progress2 {
+   width: 200px;
+   height: 20px;
+   accent-color: rgb(216, 98, 18);
+}
+
+.progress3 {
+   width: 200px;
+   height: 20px;
+   accent-color: rgb(2, 131, 21);
+}
+
+.botao {
+   text-align: center;
+   width: 100%;
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+}
+
+.botao button {
+   background-color: rgb(64, 78, 234);
+   color: white;
+   border: none;
+   padding: 8px 16px;
+   border-radius: 15px;
+   cursor: pointer;
+   font-weight: bold;
+}
+.botao :hover{
+   background-color: rgb(189, 15, 224);
+   
+}
+a {
+   text-decoration: none;
+   color: white;
+}
