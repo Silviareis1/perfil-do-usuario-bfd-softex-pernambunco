@@ -16,7 +16,7 @@ Busco experiência prática e crescimento na área de tecnologia.
 - CSS3  
 
 ## 🚀 Deploy
-🔗 [Acesse aqui no GitHub Pages](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)  
+🔗 [Acesse aqui no GitHub Pages](https://silviareis1.github.io/perfil-do-usuario-bfd-softex-pernambunco/)  
 
 ## 📂 Repositório
-🔗 [Repositório no GitHub](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)
+🔗 [Repositório no GitHub](https://github.com/Silviareis1/perfil-do-usuario-bfd-softex-pernambunco)

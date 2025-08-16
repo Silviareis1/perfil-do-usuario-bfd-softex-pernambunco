@@ -10,6 +10,7 @@ body {
    margin-top: 30px;
    border-radius: 10px;
    padding: 20px;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -22,11 +23,14 @@ img {
    width: 100px;
    border: 3px solid; 
    border-radius: 50%; 
-   color: blueviolet;
+   color: rgb(111, 12, 204);
 }
 
 h1 {
    margin-bottom: 10px;
+   color: rgb(111, 12, 204) ;
+   font-weight: bold;
+   font-size: 1.5rem;
 }
 .container{
    background-color: rgb(237, 232, 242);
@@ -69,11 +73,10 @@ margin: auto;
 .botao {
    text-align: center;
    width: 100%;
-   margin-top: 50px;
+   margin-top: 40px;
    display: flex;
    justify-content: center;
    align-items: center;
- 
 }
 
 .botao button {
@@ -86,7 +89,7 @@ margin: auto;
    font-weight: bold;
 }
 .botao :hover{
-   background-color: rgb(189, 15, 224);
+   background-color: rgb(111, 12, 204);
    
 }
 a {
