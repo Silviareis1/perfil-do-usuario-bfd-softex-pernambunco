@@ -4,7 +4,7 @@ Este projeto faz parte das atividades do curso **Programador Front-End com React
 Consiste em uma página de **perfil de usuário** desenvolvida com HTML e CSS, aplicando conceitos de layout, estilização e barras de progresso para habilidades.
 
 ## 📸 Captura de Tela
-![Print do Projeto](./screencapture.png)
+![Print do Projeto](assets/screencapture.png.)
 
 ## 👩‍💻 Sobre Mim
 Estou cursando **Programador Front-End com React** pela Softex Pernambuco.  
